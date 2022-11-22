@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Breno e sejam bem-vindos ao meu Github</h1>
-<h3 align="center">Sou Desenvolvedor Front-End e estudante de desenvolvimento web full-stack na Trybe. Tenho 20 anos e moro no Rio de Janeiro - RJ. Aqui no meu github você pode encontrar os principais projetos e tecnologias que eu utilizo no meu dia-dia.</h3>
+<h3 align="center">Sou Desenvolvedor Full-Stack e estudante de desenvolvimento web na Trybe. Tenho 20 anos e moro no Rio de Janeiro - RJ. Aqui no meu github você pode encontrar os principais projetos e tecnologias que eu utilizo no meu dia-dia.</h3>
 <h5>Principais Tecnologias e Ferramentas:</h5>
 <ul>
   
