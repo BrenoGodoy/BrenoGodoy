@@ -2,13 +2,18 @@
 <h3 align="center">Sou Desenvolvedor Front-End e estudante de desenvolvimento web full-stack na Trybe. Tenho 19 anos e moro no Rio de Janeiro - RJ. Aqui no meu github você pode encontrar os principais projetos e tecnologias que eu utilizo no meu dia-dia.</h3>
 <h5>Principais Tecnologias e Ferramentas:</h5>
 <ul>
+  
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>ReactJS</li>
-  <li>Jest</li>
-  <li>React Testing Library</li>
   <li>NodeJS</li>
+  <li>Express</li>
+  <li>Sequelize</li>
+  <li>SQL e MongoDB</li>
+  <li>Testes (Jest, React Testing Library, Mocha, chai, Sinon)</li>
+ 
 </ul>
 
 <h3>Conecte-se Comigo:</h5>
