@@ -11,6 +11,7 @@
   <li>NodeJS</li>
   <li>Express</li>
   <li>Sequelize</li>
+  <li>Mongoose</li>
   <li>SQL e MongoDB</li>
   <li>Testes (Jest, React Testing Library, Mocha, chai, Sinon)</li>
  
