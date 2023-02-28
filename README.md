@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Breno e sejam bem-vindos ao meu Github</h1>
-<h3 align="center">Sou Desenvolvedor Full-Stack e estudante de desenvolvimento web na Trybe. Tenho 20 anos e moro no Rio de Janeiro - RJ. Aqui no meu github você pode encontrar os principais projetos e tecnologias que eu utilizo no meu dia-dia.</h3>
+<h3 align="center">Sou Desenvolvedor Full-Stack e estudante de desenvolvimento web na Trybe. Tenho 20 anos e moro no Rio de Janeiro - RJ. Aqui no meu github você pode encontrar meus principais projetos e tecnologias que eu utilizo no meu dia-dia.</h3>
 <h5>Principais Tecnologias e Ferramentas:</h5>
 <ul>
   
@@ -7,12 +7,16 @@
   <li>CSS3</li>
   <li>JavaScript</li>
   <li>TypeScript</li>
+  <li>C#</li>
+  <li>.NET</li>
   <li>ReactJS</li>
+  <li>React Native</li>
   <li>NodeJS</li>
   <li>Express</li>
   <li>Sequelize</li>
   <li>Mongoose</li>
   <li>SQL e MongoDB</li>
+  <li>Docker</li>
   <li>Testes (Jest, React Testing Library, Mocha, chai, Sinon)</li>
  
 </ul>
