@@ -21,6 +21,8 @@
  
 </ul>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoGodoy)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Conecte-se Comigo:</h5>
 <h5><a href="https://www.linkedin.com/in/brenogodoycosta/">Linkedin</a></h5>
 
