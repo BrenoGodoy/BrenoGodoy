@@ -30,7 +30,7 @@ Eu sou desenvolvedor full-stack, tenho 20 anos e moro no Rio de Janeiro - RJ.
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoGodoy&count_private=true&theme=gruvbox)
 
 <h3>Conecte-se Comigo:</h5>
 <h5><a href="https://www.linkedin.com/in/brenogodoycosta/">Linkedin</a></h5>
