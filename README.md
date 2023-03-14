@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Breno! Bem-vindo(a) ao meu Github 👋
+# Olá, eu sou o Breno! Bem-vindo(a) ao meu Github 👋
 
 
 ## 🚀 Sobre mim
@@ -9,7 +9,9 @@ Eu sou desenvolvedor full-stack, tenho 20 anos e moro no Rio de Janeiro - RJ.
 ## 🛠 Habilidades
 
 <div style="display inline-block" ><br>
+  <img align="center" height="30" width="40" src="  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="30" width="40" src="  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
 ## 
