@@ -1,25 +1,17 @@
-<h1 align="center">Olá 👋, eu sou o Breno e sejam bem-vindos ao meu Github</h1>
-<h3 align="center">Sou Desenvolvedor Full-Stack. Tenho 20 anos e moro no Rio de Janeiro - RJ. Aqui no meu github você pode encontrar meus principais projetos e tecnologias que eu utilizo no meu dia-dia.</h3>
-<h5>Principais Tecnologias e Ferramentas:</h5>
-<ul>
-  
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>C#</li>
-  <li>.NET</li>
-  <li>ReactJS</li>
-  <li>React Native</li>
-  <li>NodeJS</li>
-  <li>Express</li>
-  <li>Sequelize</li>
-  <li>Mongoose</li>
-  <li>SQL e MongoDB</li>
-  <li>Docker</li>
-  <li>Testes (Jest, React Testing Library, Mocha, chai, Sinon)</li>
- 
-</ul>
+
+# Olá, eu sou a Breno! Bem-vindo(a) ao meu Github 👋
+
+
+## 🚀 Sobre mim
+Eu sou desenvolvedor full-stack, tenho 20 anos e moro no Rio de Janeiro - RJ. 
+
+
+## 🛠 Habilidades
+
+<div style="display inline-block" ><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</div>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoGodoy&hide=contribs,prs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
