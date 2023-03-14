@@ -36,6 +36,6 @@ Eu sou desenvolvedor full-stack, tenho 20 anos e moro no Rio de Janeiro - RJ.
 </div>
 
 <h3>Conecte-se ou entre em contato comigo:</h5>
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"><a href="https://www.linkedin.com/in/brenogodoycosta/">Linkedin</a></img>
+<a href="https://www.linkedin.com/in/brenogodoycosta/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 # Dê uma olhada nos meus principais projetos abaixo:
