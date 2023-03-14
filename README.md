@@ -35,4 +35,4 @@ Eu sou desenvolvedor full-stack, tenho 20 anos e moro no Rio de Janeiro - RJ.
 <h3>Conecte-se Comigo:</h5>
 <h5><a href="https://www.linkedin.com/in/brenogodoycosta/">Linkedin</a></h5>
 
-# Meu principais projetos:
+# Dê uma olhada nos meus principais projetos abaixo:
