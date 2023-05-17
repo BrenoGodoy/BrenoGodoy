@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou desenvolvedor full-stack, tenho 20 anos e moro no Rio de Janeiro - RJ. Minhas principais habilidades são Javascript, Typescript, React, Express, Sequelize, MySql ou MongoDB e Python, mas sou apaixonado por tecnologia e posso aprender e trabalhar em diversas outras linguagens, como C#, Java, C++, etc.... Aqui no meu github você vai encontrar os projetos que já realizei nas minhas principais tecnologias, vale a pena dar uma olhada!
+Eu sou desenvolvedor full-stack, tenho 20 anos e moro no Rio de Janeiro - RJ. Minhas principais habilidades são Javascript, Typescript, React, Express, Sequelize, MySql ou MongoDB e Python, mas sou apaixonado por tecnologia e aprender, conseguindo assim ser muito versátil e trabalhar em diversas outras linguagens, como C#, Java, C++, etc.... Aqui no meu github você vai encontrar os projetos que já realizei nas minhas principais tecnologias, vale a pena dar uma olhada!
 
 ## 🛠 Habilidades
 
@@ -23,6 +23,7 @@ Eu sou desenvolvedor full-stack, tenho 20 anos e moro no Rio de Janeiro - RJ. Mi
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" /> 
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDb" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySql" />
 </div>
