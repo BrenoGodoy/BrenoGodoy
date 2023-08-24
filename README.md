@@ -31,7 +31,6 @@ Eu sou desenvolvedor full-stack, tenho 20 anos e moro no Rio de Janeiro - RJ. Mi
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoGodoy&count_private=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoGodoy&layout=compact&langs-count=16&theme=dark" />
 </div>
 
