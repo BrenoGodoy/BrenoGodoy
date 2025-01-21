@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou desenvolvedor full-stack, tenho 21 anos e moro no Rio de Janeiro - RJ. Minhas principais habilidades são Javascript, Typescript, NodeJs, React, Express, Sequelize, MySql ou MongoDB e Python, mas sou apaixonado por tecnologia e aprender, conseguindo assim ser muito versátil e trabalhar em diversas outras linguagens, como C#, Java, C++, etc.... Aqui no meu github você vai encontrar os projetos que já realizei nas minhas principais tecnologias, vale a pena dar uma olhada!
+Eu sou desenvolvedor full-stack, tenho 22 anos e moro no Rio de Janeiro - RJ. Minhas principais habilidades são Javascript, Typescript, NodeJs, React, Express, Sequelize, MySql ou MongoDB e Python, mas sou apaixonado por tecnologia e aprender, conseguindo assim ser muito versátil e trabalhar em diversas outras linguagens, como C#, Java, C++, etc.... Aqui no meu github você vai encontrar os projetos que já realizei nas minhas principais tecnologias, vale a pena dar uma olhada!
 
 ## 🛠 Habilidades
 
